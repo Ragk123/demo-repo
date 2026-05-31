@@ -74,7 +74,7 @@ git commit -m "Add your message"
 git push origin feature/your-feature-name
 ```
 
-6. Open a pull request
+6. Open a pull requests
 
 ## Issue Closing Example
 
