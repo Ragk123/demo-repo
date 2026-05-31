@@ -15,7 +15,7 @@ This project is created as a sample/demo repository. It can be used to test Git 
 
 ## Installation
 
-Clone the repository:
+Clone the repository
 
 ```bash
 git clone https://github.com/your-username/demo-project.git
