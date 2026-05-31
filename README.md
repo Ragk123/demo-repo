@@ -4,7 +4,7 @@ A simple demo project to showcase the basic structure, setup, and usage of a Git
 
 ## Description
 
-This project is created as a sample/demo repository. It can be used to test Git commands, GitHub issues, pull requests, branches, and basic project documentation.
+This project is created as a sample/demo repository. It can be used to test Git commands, GitHub issues, pull requests, branches, and basic project documentation. 
 
 ## Features
 
